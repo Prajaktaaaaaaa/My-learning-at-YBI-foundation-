@@ -1,2 +1,2 @@
 # My-learning-at-YBI-foundation-
-Hello
+I'm learning AI/ML at YBI
